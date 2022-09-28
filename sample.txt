@@ -1,4 +1,7 @@
 mahesh is a IT person
 This is local repo
 this is central repo
+<<<<<<< Updated upstream
 this klklslkl;osk;lks
+iuiopoioioioo
+Stashed changes
